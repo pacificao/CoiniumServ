@@ -1,0 +1,16 @@
+{
+  "name": "Enviromint",
+  "symbol": "ENV",
+  "algorithm": "scrypt",
+  "site": "http://enviromint.org",
+  "blockExplorer": {
+    "block": "http://enviromint.lchain.cc/block/",
+    "tx": "http://enviromint.lchain.cc/tx/",
+    "address": "http://enviromint.lchain.cc/address/"
+  },
+  "options": {
+    "isProofOfStakeHybrid": true,
+    "blockTemplateModeRequired": true,
+    "useDefaultAccount": true
+  }
+}
